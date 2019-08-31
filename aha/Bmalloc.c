@@ -6,8 +6,8 @@ int main() {
   p = (int *)malloc(sizeof(int));
   *p = 10;
   printf("%d ", *p);
-  getchar();
-  getchar();
 
+  getchar();
+  getchar();
   return 0;
 }
